@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="her_assets.png">
+	<!-- Created with Adobe Animate version 21.0.4.39603 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="her down0000" x="0" y="0" width="777" height="655"/>
+	<SubTexture name="her down0001" x="0" y="0" width="777" height="655"/>
+	<SubTexture name="her down0002" x="777" y="0" width="777" height="655"/>
+	<SubTexture name="her down0003" x="777" y="0" width="777" height="655"/>
+	<SubTexture name="her down0004" x="777" y="0" width="777" height="655"/>
+	<SubTexture name="her down0005" x="777" y="0" width="777" height="655"/>
+	<SubTexture name="her down0006" x="777" y="0" width="777" height="655"/>
+	<SubTexture name="her down0007" x="777" y="0" width="777" height="655"/>
+	<SubTexture name="her down0008" x="777" y="0" width="777" height="655"/>
+	<SubTexture name="her down0009" x="777" y="0" width="777" height="655"/>
+	<SubTexture name="her down0010" x="777" y="0" width="777" height="655"/>
+	<SubTexture name="her idle0000" x="1554" y="0" width="777" height="655"/>
+	<SubTexture name="her idle0001" x="1554" y="0" width="777" height="655"/>
+	<SubTexture name="her idle0002" x="1554" y="0" width="777" height="655"/>
+	<SubTexture name="her idle0003" x="2331" y="0" width="777" height="655"/>
+	<SubTexture name="her idle0004" x="2331" y="0" width="777" height="655"/>
+	<SubTexture name="her idle0005" x="3108" y="0" width="777" height="655"/>
+	<SubTexture name="her idle0006" x="0" y="655" width="777" height="655"/>
+	<SubTexture name="her idle0007" x="777" y="655" width="777" height="655"/>
+	<SubTexture name="her idle0008" x="777" y="655" width="777" height="655"/>
+	<SubTexture name="her idle0009" x="1554" y="655" width="777" height="655"/>
+	<SubTexture name="her idle0010" x="1554" y="655" width="777" height="655"/>
+	<SubTexture name="her idle0011" x="1554" y="655" width="777" height="655"/>
+	<SubTexture name="her left0000" x="2331" y="655" width="777" height="655"/>
+	<SubTexture name="her left0001" x="2331" y="655" width="777" height="655"/>
+	<SubTexture name="her left0002" x="3108" y="655" width="777" height="655"/>
+	<SubTexture name="her left0003" x="3108" y="655" width="777" height="655"/>
+	<SubTexture name="her left0004" x="3108" y="655" width="777" height="655"/>
+	<SubTexture name="her left0005" x="3108" y="655" width="777" height="655"/>
+	<SubTexture name="her left0006" x="3108" y="655" width="777" height="655"/>
+	<SubTexture name="her left0007" x="3108" y="655" width="777" height="655"/>
+	<SubTexture name="her left0008" x="3108" y="655" width="777" height="655"/>
+	<SubTexture name="her left0009" x="3108" y="655" width="777" height="655"/>
+	<SubTexture name="her left0010" x="3108" y="655" width="777" height="655"/>
+	<SubTexture name="her right0000" x="0" y="1310" width="777" height="655"/>
+	<SubTexture name="her right0001" x="0" y="1310" width="777" height="655"/>
+	<SubTexture name="her right0002" x="777" y="1310" width="777" height="655"/>
+	<SubTexture name="her right0003" x="777" y="1310" width="777" height="655"/>
+	<SubTexture name="her right0004" x="777" y="1310" width="777" height="655"/>
+	<SubTexture name="her right0005" x="777" y="1310" width="777" height="655"/>
+	<SubTexture name="her right0006" x="777" y="1310" width="777" height="655"/>
+	<SubTexture name="her right0007" x="777" y="1310" width="777" height="655"/>
+	<SubTexture name="her right0008" x="777" y="1310" width="777" height="655"/>
+	<SubTexture name="her right0009" x="777" y="1310" width="777" height="655"/>
+	<SubTexture name="her right0010" x="777" y="1310" width="777" height="655"/>
+	<SubTexture name="her up0000" x="1554" y="1310" width="777" height="655"/>
+	<SubTexture name="her up0001" x="1554" y="1310" width="777" height="655"/>
+	<SubTexture name="her up0002" x="2331" y="1310" width="777" height="655"/>
+	<SubTexture name="her up0003" x="2331" y="1310" width="777" height="655"/>
+	<SubTexture name="her up0004" x="2331" y="1310" width="777" height="655"/>
+	<SubTexture name="her up0005" x="2331" y="1310" width="777" height="655"/>
+	<SubTexture name="her up0006" x="2331" y="1310" width="777" height="655"/>
+	<SubTexture name="her up0007" x="2331" y="1310" width="777" height="655"/>
+	<SubTexture name="her up0008" x="2331" y="1310" width="777" height="655"/>
+	<SubTexture name="her up0009" x="2331" y="1310" width="777" height="655"/>
+	<SubTexture name="her up0010" x="2331" y="1310" width="777" height="655"/>
+</TextureAtlas>
