@@ -2,7 +2,7 @@
 The Friday night funkin mods I made.
 
 # What is Friday night funkin?
-Friday night funkin is a rythm game.
+[Friday night funkin is a rythm game.](https://ninja-muffin24.itch.io/funkin)
 
 # Mods I made.
 
